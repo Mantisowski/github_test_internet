@@ -1,5 +1,5 @@
 <html>
 
-wez to pan opublikuj w celach testowych w internecie
+Publish as a private
 
 </html>
